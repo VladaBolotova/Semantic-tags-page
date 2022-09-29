@@ -1,15 +1,15 @@
 # challenge-1 homework
 
-Description
+Description:
 This web  page was build for people with disabilities.
 
-Installation 
+Installation:
 N/A
 
-Usage
+Usage:
 The web page contains semantic tags so people with disabilities can have access to each section/artickels/headers of the page
 
-Credits
+Credits:
 N/A
 
 
